@@ -1,12 +1,14 @@
-## Aleksei Kononov's CV
+## Aleksei Kononov
 ## Contact info:
 * **Adress:** Russia, Saint-Petersburg
 * **Phone:** +7951665xxxx
 * **E-mail:** aleshqeen@gmail.com
 * **GitHub:** [conanz0r](https://github.com/conanz0r)
 * **Telegram:** [conanz0r](https://t.me/conanz0r)
+
 ## About myself:
 Я котик и у меня лапки :3
+
 ## Skills & tools:
 * QA basics (Test design techniques, Test documentation & etc)
 * HTML & CSS (basics)
@@ -21,6 +23,7 @@
 * Trying to JS :P
 * Python (Selenium ONE time for a personal project)
 * Editors: VSCode, Pycharm
+
 ## Code Example:
 ```
 from selenium import webdriver  
@@ -89,13 +92,16 @@ for game in matches_id[0:378]:
 result_df = pd.DataFrame(season_data, columns = ['Дата', 'Хозяева', 'Гости', 'Забили хозяева', 'Забили гости'])  
 result_df.to_excel('testpls1.xlsx')
 ```
+
 ## Education:
 * V. K.  Course (link cert)
 * Stepik?? (link cert)
 * Offline course at 2019 (have certificate), but it too old
 * CS50 xz
+
 ## EXP:
-At my last job, I was testing my products - manually checking data from spreadsheets.
+At my last job, I was testing my products - manually checking data from Excel spreadsheets.
+
 ## Language:
 * Russian (Native)
 * Engilsh (B1)
