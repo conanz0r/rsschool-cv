@@ -26,6 +26,7 @@
 
 ## Code Example:
 ```
+
 from selenium import webdriver  
 from webdriver_manager.chrome import ChromeDriverManager  
 from datetime import datetime  
@@ -91,6 +92,7 @@ for game in matches_id[0:378]:
   
 result_df = pd.DataFrame(season_data, columns = ['Дата', 'Хозяева', 'Гости', 'Забили хозяева', 'Забили гости'])  
 result_df.to_excel('testpls1.xlsx')
+
 ```
 
 ## Education:
