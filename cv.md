@@ -10,6 +10,8 @@ Interesting quote in Russian: «Дорогу осилит идущий, бегу
 ## Skills
 - HTML&CSS
 - JS
+- DevTools
+- Postman
 - Git
 - Linux bash
 ## Code examples
