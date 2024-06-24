@@ -16,13 +16,15 @@ Interesting quote in Russian: «Дорогу осилит идущий, бегу
 - Linux bash
 ## Code examples
 ```
-Update soon
+function letsGoDrinkBeer () {
+  console.log('Lets go drink beer');
+}
+function letsGoDrinkWine () {
+  console.log('Lets go drink wine');
+}
 
-
-
-
-
-
+letsGoDrinkBeer ();
+letsGoDrinkWine ();
 
 ```
 ## Experience
